@@ -1,4 +1,4 @@
-# swissmeteo
+# OpenData oev-live to S3
 fetch Data from Swiss Opendata public transport http://oev-live.ch/, and upload it to S3 compatible Storage (run in Docker) for Big-data, Machine-Learning and Analytics purposes.
 
 More info by [LeanBI](http://www.leanbi.ch)
